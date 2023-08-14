@@ -159,11 +159,11 @@ ul {
   }
 
   .slider_block_btn_prev::before {
-    background-image: url(images/arrow-left.svg);
+    background-image: url(./images/arrow-left.svg);
   }
   
   .slider_block_btn_next::before {
-    background-image: url(images/arrow-right.svg);
+    background-image: url(./images/arrow-right.svg);
   }
 
 
